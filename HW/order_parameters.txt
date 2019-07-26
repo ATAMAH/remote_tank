@@ -1,0 +1,5 @@
+2 layers
+FR4 1mm thick
+0.18mm copper
+HASL with lead
+silk top, silk bottom
